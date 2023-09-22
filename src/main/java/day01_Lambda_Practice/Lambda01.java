@@ -1,4 +1,4 @@
-package Lambda_Practice;
+package day01_Lambda_Practice;
 
 import java.util.*;
 import java.util.stream.Collectors;
